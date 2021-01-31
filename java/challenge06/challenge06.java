@@ -17,21 +17,17 @@ import java.io.*;
 
 
 
-class Solution{
+class Solution
+{
     public static void main(String []argh)
     {
-
-
-
-        Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
-
-        for(int i=0;i<t;i++)
+		for(int i=0;i<t;i++)
         {
-
-            try
+		try
             {
-                long x=sc.nextLong();
+				long x=sc.nextLong();
                 System.out.println(x+" can be fitted in:");
                 if(x>=-128 && x<=127)
                     System.out.println("* byte");

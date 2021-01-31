@@ -12,25 +12,27 @@
 
 import java.lang.Math;
 
-class Solution{
-    public static void main(String []argh){
-        Scanner in = new Scanner(System.in);
-        int t=in.nextInt();
-        for(int i=0;i<t;i++)
-        {
-            int a = in.nextInt();
-            int b = in.nextInt();
-            int n = in.nextInt();
-        
-            int cmt = 0;
-            while (cmt < n)
-            {
-                a = a + (int)Math.pow(2,cmt) * b;
-                System.out.print(a + " ");
-                cmt++;
-            }
-            System.out.println();
-        }
-        in.close();
-    }
+class Solution
+{
+	public static void main(String[] argh)
+	{
+		Scanner in = new Scanner(System.in);
+		int t=in.nextInt();
+		for(int i=0;i<t;i++)
+		{
+			int a = in.nextInt();
+			int b = in.nextInt();
+			int n = in.nextInt();
+
+			int cmt = 0;
+			while (cmt < n)
+			{
+				 a = a + (int)Math.pow(2,cmt) * b;
+				System.out.print(a + " ");
+				cmt++;
+			}
+			System.out.println();
+		}
+		in.close();
+	}
 }

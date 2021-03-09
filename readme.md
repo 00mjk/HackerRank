@@ -5,13 +5,17 @@
     <br>
 </p>
 
-## Problems are sorted by difficulty.
+#Python
+| Subdomain | Challenge  | Points | Solution |
+|--- |--- |--- |--- |
+
+
 
 # Java
 
-|          Subdomain          |                                                         Challenge                                                        | Points |
-|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|
-|         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |    3   |
+| Subdomain |  Challenge  | Points | Solution |
+|--- |--- |--- |--- |
+| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java) | 3 |
 |         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                 |    5   |
 |         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                       |   10   |
 |         Introduction        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)                                      |   10   |

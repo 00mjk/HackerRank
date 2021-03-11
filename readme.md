@@ -10,7 +10,7 @@
 |--- |--- |--- |--- |
 | Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution]  |
 | Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution] |
-
+| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10 | [Solution] |
 
 # Java
 

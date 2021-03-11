@@ -9,7 +9,7 @@
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
 | Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 |   |
-
+| | | | |
 
 
 # Java

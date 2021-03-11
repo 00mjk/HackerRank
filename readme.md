@@ -8,8 +8,8 @@
 # Python
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
-| Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 |   |
-| | | | |
+| Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution]  |
+| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution] |
 
 
 # Java

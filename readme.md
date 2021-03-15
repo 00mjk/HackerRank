@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/Alaamimi">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>
 </p>
 
-## Bash Challenges
+## :information_source: Bash Challenges
 
 
 | Number | Challenge | Points | Solution |
@@ -22,7 +22,7 @@
 | 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) |   |   |
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) |  |  | 
 
-## Text Processing
+## :information_source: Text Processing
 
 
 | Number | Challenge | Points | Solution |
@@ -61,7 +61,7 @@
 |32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | 
 
 
-## Arrays in Bash
+## :information_source: Arrays in Bash
 
 | Number | Challenge | Points | Solution |
 |--- |--- |---  |---  |
@@ -74,7 +74,7 @@
 |7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | 
 |8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | 
 
-## Grep Sed Awk
+## :information_source: Grep Sed Awk
 
 
 | Number | Challenge | Points | Solution |
@@ -105,7 +105,7 @@
 * [Catching user input](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_08_02.html)
 * [Loops in Bash](https://www.cyberciti.biz/faq/bash-for-loop/)
 
-### Text Processing 
+### :information_source: Text Processing 
 * [Cut](https://www.geeksforgeeks.org/cut-command-linux-examples/)
 * [Head](https://www.geeksforgeeks.org/head-command-linux-examples/)
 * [Tr video](https://www.youtube.com/watch?v=RNuh1rqKIbg&feature=youtu.be)
@@ -115,10 +115,10 @@
 * [Paste video](https://www.youtube.com/watch?v=DCJPFjS_vss)
 * [Paste](http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html)
 
-### Arrays in Bash
+### :information_source: Arrays in Bash
 * [Array Tutorial](https://www.thegeekstuff.com/2010/06/bash-array-tutorial/)
 
-# Java
+# :information_source: Java
 
 | Subdomain |  Challenge  | Points | Solution |
 |--- |--- |--- |--- |
@@ -186,7 +186,7 @@
 |           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   |
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   |
 
-# Python
+# :information_source: Python
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
 | Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution]  |

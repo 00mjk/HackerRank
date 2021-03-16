@@ -10,23 +10,15 @@
 #                                                                              #
 # **************************************************************************** #
 
-#!/bin/python
-
-import math
-import os
-import random
-import re
-import sys
-
-
+#!/bin/python3
 
 if __name__ == '__main__':
-    n = int(raw_input().strip())
-if (n >= 2 and n <= 5 and n % 2 == 0):
-    print"Not Weird"
-elif (n >= 6 and n <= 20):
-    print"Weird"
-elif (n >= 20 and n % 2 != 1):
-    print"Not Weird"
-else:
-    print"Weird"
+    n = int(input().strip())
+    if n % 2 == 1:
+        print("Weird")
+    elif n % 2 == 0 and n in range(2, 6):
+        print("Not Weird")
+    elif n % 2 == 0 and n in range(6, 21):
+        print("Weird")
+    else:
+        print("Not Weird")

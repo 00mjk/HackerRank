@@ -144,6 +144,11 @@
 
 # :information_source: Java
 
+<p align="center">
+  <img src="https://blogimg.ngfiles.com/851000/851158/1520128_javaz.gif.gif" width="1200" />
+</p>
+
+
 | Subdomain |  Challenge  | Points | Solution |
 |--- |--- |--- |--- |
 | Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java) | 3 |

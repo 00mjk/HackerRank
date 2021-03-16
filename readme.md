@@ -27,6 +27,10 @@
 
 ## :information_source: Bash Challenges
 
+<p align="center">
+  <img src="https://i.imgur.com/pIJKrYj.gif" width="1200" />
+</p>
+
 
 | Number | Challenge | Points | Solution |
 |--- |--- |---  |---  |

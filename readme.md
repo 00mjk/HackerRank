@@ -5,6 +5,16 @@
     <br>
 </p>
 
+# :information_source: Python
+| Subdomain | Challenge  | Points | Solution |
+|--- |--- |--- |--- |
+| Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution]()  |
+| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution]() |
+| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10 | [Solution]() |
+| Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | 10 | [Solution]() |
+
+
+
 ## :information_source: Bash Challenges
 
 
@@ -185,13 +195,5 @@
 |           Advanced          | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)                                 |   30   |
 |           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   |
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   |
-
-# :information_source: Python
-| Subdomain | Challenge  | Points | Solution |
-|--- |--- |--- |--- |
-| Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution]  |
-| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution] |
-| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10 | [Solution] |
-| Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | 10 | [Solution] |
 
 

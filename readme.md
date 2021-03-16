@@ -6,6 +6,13 @@
 </p>
 
 # :information_source: Python
+
+<p align="center">
+  <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
+</p>
+
+> Let's Parseltongue!
+
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
 | Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Say_Hello_World_With_Python/Hello_World.py)  |

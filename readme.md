@@ -16,8 +16,8 @@
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
 | Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Say_Hello_World_With_Python/Hello_World.py)  |
-| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution]() |
-| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10 | [Solution]() |
+| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Python_If_Else/python-if-else.py) |
+| Introduction  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Arithmetic_Operators/Arithmetic_Operators.py) |
 | Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | 10 | [Solution]() |
 
 

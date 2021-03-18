@@ -29,11 +29,11 @@
 | **Day00** : [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day00/HelloWorld.py) | Hello, World. | 30 |
 | **Day01** : [Question](https://www.hackerrank.com/challenges/30-data-types/problem) |  [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day01/DataTypes.py) | Data Types | 30 |
 | **Day02** : [Question](https://www.hackerrank.com/challenges/30-operators/problem) |  [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day02/Operators.py) | Operators | 30 |
-| **Day03** : [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day03/Statements.java) | Intro To Conditional Statements | 30 |
-| **Day04** : [Question](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day04/Classes_vs_Instance.java) | Class Vs Instance | 30 |
-| **Day05** : [Question](https://www.hackerrank.com/challenges/30-loops) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day05/Loops.java) | Loops | 30 |
-| **Day06** : [Question](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)| [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day06/Review.java) | let's Review | 30 |
-| **Day07** : [Question](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day07/Arrays.java) | Arrays | 30 |
+| **Day03** : [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day03/Statements.py) | Intro To Conditional Statements | 30 |
+| **Day04** : [Question](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day04/classes_Vs_Instance.py) | Class Vs Instance | 30 |
+| **Day05** : [Question](https://www.hackerrank.com/challenges/30-loops) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day05/loops.py) | Loops | 30 |
+| **Day06** : [Question](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)| [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day06/Review.py) | let's Review | 30 |
+| **Day07** : [Question](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day07/Arrays.py) | Arrays | 30 |
 | **Day08** : [Question](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day08/Maps.java) | Dictionaries And Maps| 30 |
 | **Day09** : [Question](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day09/Recursion.java) |  Recursion | 30 |
 | **Day10** : [Question](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day10/Binary.c) | Binary Numbers | 30 |
@@ -52,10 +52,10 @@
 | **Day23** : [Question](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day23/BTS_Level_Order_Traversal.py) | BTS Level Order Traversal | 30 |
 | **Day24** : [Question](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day24/More_Linked_Lists.py) | More Linked Lists| 30 |
 | **Day25** : [Question](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day25/Running_Time_And_Complexity.py) |Running Time And Complexity | 30 |
-| **Day26** : [Question](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day26/Nested_Logic.py) | Nested Logic | 30 |
-| **Day27** : [Question](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day27/testing.py) | testing | 30 |
-| **Day28** : [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day28/regex_And_Databases.py) | RegEx, Patterns, and Intro to Databases | 30 |
-| **Day29** : [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day29/bitWise_And.py) | Bitwise AND | 30 |
+| **Day26** : [Question](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day26/Nested_Logic.py) | Nested Logic | 30 |
+| **Day27** : [Question](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day27/testing.py) | testing | 30 |
+| **Day28** : [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day28/regex_And_Databases.py) | RegEx, Patterns, and Intro to Databases | 30 |
+| **Day29** : [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day29/bitWise_And.py) | Bitwise AND | 30 |
 
 ---
 

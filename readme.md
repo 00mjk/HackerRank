@@ -16,6 +16,8 @@
 
 ## :information_source: 30 Days Of Code :
 
+---
+
 > Coding journey!
 
 ---
@@ -63,6 +65,8 @@
 
 # :information_source: Python
 
+---
+
 <p align="center">
   <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
 </p>
@@ -82,10 +86,12 @@
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Loops/loops.py) |
 | Introduction | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Write_A_Function/Write_A_Function.py) |
 | Introduction | [Print function](https://www.hackerrank.com/challenges/python-print/problem) | 20 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Print_Function/Print_Function.py) |
+
 ---
 
-
 ## :information_source: Bash Challenges
+
+--
 
 <p align="center">
   <img src="https://i.imgur.com/pIJKrYj.gif" width="1200" />

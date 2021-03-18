@@ -26,9 +26,9 @@
 
 | Days | Solutions | Challenges | Points |
 |---   |---           |--- |--- |
-| **Day00** : [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day00/HelloWorld.java) | Hello, World. | 30 |
-| **Day01** : [Question](https://www.hackerrank.com/challenges/30-data-types/problem) |  [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day01/DataTypes.java) | Data Types | 30 |
-| **Day02** : [Question](https://www.hackerrank.com/challenges/30-operators/problem) |  [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day02/Operators.java) | Operators | 30 |
+| **Day00** : [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day00/HelloWorld.py) | Hello, World. | 30 |
+| **Day01** : [Question](https://www.hackerrank.com/challenges/30-data-types/problem) |  [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day01/DataTypes.py) | Data Types | 30 |
+| **Day02** : [Question](https://www.hackerrank.com/challenges/30-operators/problem) |  [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day02/Operators.py) | Operators | 30 |
 | **Day03** : [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day03/Statements.java) | Intro To Conditional Statements | 30 |
 | **Day04** : [Question](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day04/Classes_vs_Instance.java) | Class Vs Instance | 30 |
 | **Day05** : [Question](https://www.hackerrank.com/challenges/30-loops) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day05/Loops.java) | Loops | 30 |

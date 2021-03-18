@@ -5,12 +5,14 @@
     </a>
     <br>
 </p>
+
 ---
 
 ---
 <p align="center">  
 <img src="https://i.imgur.com/CXjWBpW.gif" width="1200">
 </p>
+
 ---
 
 ## :information_source: 30 Days Of Code :
@@ -172,6 +174,7 @@
 |13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | 
 |14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | 
 
+---
 
 # :information_source: Java
 
@@ -179,6 +182,7 @@
   <img src="https://blogimg.ngfiles.com/851000/851158/1520128_javaz.gif.gif" width="1200" />
 </p>
 
+---
 
 | Subdomain |  Challenge  | Points | Solution |
 |--- |--- |--- |--- |
@@ -246,4 +250,4 @@
 |           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   |
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   |
 
-
+---

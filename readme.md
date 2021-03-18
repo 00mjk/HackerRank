@@ -31,6 +31,7 @@
   <img src="https://i.imgur.com/pIJKrYj.gif" width="1200" />
 </p>
 
+> Shell in a nutshell!
 
 | Number | Challenge | Points | Solution |
 |--- |--- |---  |---  |

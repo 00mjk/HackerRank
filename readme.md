@@ -8,7 +8,6 @@
 
 ---
 
----
 <p align="center">  
 <img src="https://i.imgur.com/CXjWBpW.gif" width="1200">
 </p>
@@ -18,6 +17,8 @@
 ## :information_source: 30 Days Of Code :
 
 > Coding journey!
+
+---
 
 ## :information_source: Ressources :
 
@@ -57,14 +58,16 @@
 | **Day28** : [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day28/regex_And_Databases.py) | RegEx, Patterns, and Intro to Databases | 30 |
 | **Day29** : [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/30-days-of-code/Day29/bitWise_And.py) | Bitwise AND | 30 |
 
----
 
 ---
+
 # :information_source: Python
 
 <p align="center">
   <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
 </p>
+
+---
 
 :tv: [Playlist To Watch](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&ab_channel=Socratica)
 > Let's Parseltongue!
@@ -178,6 +181,8 @@
 ---
 
 # :information_source: Java
+
+---
 
 <p align="center">
   <img src="https://blogimg.ngfiles.com/851000/851158/1520128_javaz.gif.gif" width="1200" />

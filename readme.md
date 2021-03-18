@@ -86,8 +86,13 @@
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Loops/loops.py) |
 | Introduction | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Write_A_Function/Write_A_Function.py) |
 | Introduction | [Print function](https://www.hackerrank.com/challenges/python-print/problem) | 20 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Print_Function/Print_Function.py) |
-| Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/List_Comprehensions/List_Comprehensions.py) |
-| Data Types | [Find the runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Find_the_runner-Up-Score/Find_the_runner-Up_score.py) |
+| basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/List_Comprehensions/List_Comprehensions.py) |
+| Basic Data Types | [Find the runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Find_the_runner-Up-Score/Find_the_runner-Up_score.py) |
+| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | 10 | [Solution]() |
+| Basic Data Types | [Finding the percenrage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | 10 | [Solution]() |
+| Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | 10 | [Solution]() |
+| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | 10 | [Solution]() |
+
 ---
 
 ## :information_source: Bash Challenges

@@ -66,6 +66,7 @@
   <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
 </p>
 
+:tv: [Playlist To Watch](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&ab_channel=Socratica)
 > Let's Parseltongue!
 ---
 

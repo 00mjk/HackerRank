@@ -63,7 +63,7 @@
 
 ---
 
-# :information_source: Python
+# :information_source: Python :
 
 ---
 
@@ -95,7 +95,7 @@
 
 ---
 
-## :information_source: Bash Challenges
+## :information_source: Bash Challenges :
 
 ---
 
@@ -119,7 +119,7 @@
 | 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) |   |   |
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) |  |  | 
 
-## :information_source: Text Processing
+## :information_source: Text Processing :
 
 
 | Number | Challenge | Points | Solution |
@@ -158,7 +158,7 @@
 |32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | 
 
 
-## :information_source: Arrays in Bash
+## :information_source: Arrays in Bash :
 
 | Number | Challenge | Points | Solution |
 |--- |--- |---  |---  |
@@ -171,7 +171,7 @@
 |7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | 
 |8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | 
 
-## :information_source: Grep Sed Awk
+## :information_source: Grep Sed Awk :
 
 
 | Number | Challenge | Points | Solution |
@@ -192,7 +192,7 @@
 
 ---
 
-# :information_source: Java
+# :information_source: Java :
 
 ---
 

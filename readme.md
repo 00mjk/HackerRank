@@ -1,23 +1,26 @@
+---
 <p align="center">
     <a href="https://www.hackerrank.com/Alaamimi">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>
 </p>
+---
 
+---
 <p align="center">  
 <img src="https://i.imgur.com/CXjWBpW.gif" width="1200">
 </p>
+---
 
-## :books: 30 Days Of Code :
+## :information_source: 30 Days Of Code :
 
-Here are the solutions to all the HackerRank challenge questions For this series.
+> Coding journey!
 
 ## :information_source: Ressources :
 
 :tv: [playlist to watch](https://www.youtube.com/watch?v=zzjJ7Hty88M&list=PLcLMSci1ZoPs6jV0O3LBJwChjRon3lE1F&ab_channel=blondiebytes)
 
-## :hammer: Problems list with solutions :
 
 | Days | Solutions | Challenges | Points |
 |---   |---           |--- |--- |
@@ -52,6 +55,9 @@ Here are the solutions to all the HackerRank challenge questions For this series
 | **Day28** : [Question](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day28/regex_And_Databases.py) | RegEx, Patterns, and Intro to Databases | 30 |
 | **Day29** : [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/Alaamimi/30-Days-Of-Code-HackerRank/blob/master/Day29/bitWise_And.py) | Bitwise AND | 30 |
 
+---
+
+---
 # :information_source: Python
 
 <p align="center">
@@ -59,6 +65,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 </p>
 
 > Let's Parseltongue!
+---
 
 | Subdomain | Challenge  | Points | Solution |
 |--- |--- |--- |--- |
@@ -69,7 +76,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Loops/loops.py) |
 | Introduction | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | 10 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Write_A_Function/Write_A_Function.py) |
 | Introduction | [Print function](https://www.hackerrank.com/challenges/python-print/problem) | 20 | [Solution](https://github.com/Alaamimi/HackerRank/blob/master/Python/Print_Function/Print_Function.py) |
-
+---
 
 
 ## :information_source: Bash Challenges
